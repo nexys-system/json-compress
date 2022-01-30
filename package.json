@@ -1,5 +1,5 @@
 {
-  "name": "@nexys/template",
+  "name": "@nexys/json-compress",
   "version": "0.0.0",
   "private": false,
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nexys-system/typescript-package"
+    "url": "https://github.com/nexys-system/json-compress"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,8 +22,7 @@
     "typescript",
     "SDK"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^25.2.3",
     "@types/nock": "^11.1.0",
