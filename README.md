@@ -6,4 +6,4 @@
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 [![Bundlephobia](https://badgen.net/bundlephobia/min/@nexys/json-compress)](https://bundlephobia.com/result?p=@nexys/json-compress)
 
-Attempt/experiment to compress/efficiently encode JSON objects so they can be able efficiently transmitted over GET protocol
+Attempt/experiment to compress/efficiently encode JSON objects so they can be efficiently transmitted over GET protocol
